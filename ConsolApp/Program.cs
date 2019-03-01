@@ -10,6 +10,8 @@ namespace ConsolApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Jenkins Panga");
+            Console.ReadLine();
         }
     }
 }
